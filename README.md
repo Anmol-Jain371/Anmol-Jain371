@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey guys, I’m Anmol Jain — really glad to meet you all! 👋
 
-<!--
-**Anmol-Jain371/Anmol-Jain371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="koi/koi.gif" width="256" alt="Anmol's activity koi" />
+  <p>
+    <em>🐟 <strong>My Activity Koi:</strong> Fed by commits, colored by languages, and animated nightly by GitHub Actions!</em>
+  </p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 💻 Passionate developer building exciting software and exploring new technologies.
+- 🛠️ Interested in open source, workflow automation, and building impactful projects.
+- 🤝 Always excited to collaborate and connect with fellow developers.
+
+---
+
+### 🎏 Featured Project: [Git Koi](https://github.com/yalongwastaken/git-koi)
+> Git Koi transforms GitHub contribution activity into a living, animated pixel-art koi fish directly on the profile README.
+
+- 🎨 **Languages color it** according to repository languages.
+- 📈 **Contributions grow it** over time.
+- 🌊 **Recent activity** influences how it swims.
+- ⚡ **Automated nightly** using a scheduled GitHub Actions workflow.
+
+---
+
+### 📫 Connect With Me
+- 🐙 **GitHub:** [@Anmol-Jain371](https://github.com/Anmol-Jain371)
+- ✉️ **Email:** [anmoljain277353@gmail.com](mailto:anmoljain277353@gmail.com)
