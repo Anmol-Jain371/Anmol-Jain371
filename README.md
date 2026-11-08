@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td valign="top">
-      <h1>Hey guys, I’m Anmol Jain</h1>
+      <h1>Hey guys, I'm Anmol Jain</h1>
       <p>Really glad to meet you all!</p>
       <br>
       <h3>Project: <a href="https://github.com/yalongwastaken/git-koi">Git Koi</a></h3>
