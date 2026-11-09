@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="assets/header_banner.png" width="100%" alt="Anmol Jain // AI & Full-Stack Systems" />
+  <br><br>
   <img src="assets/intro.png" width="340" alt="I Got Nothing To Say" />
 </div>
 
@@ -7,7 +9,7 @@
 <table>
   <tr>
     <td valign="middle">
-      <h1>Hey, I'm Anmol Jain</h1>
+      <h2>Hey, I'm Anmol Jain</h2>
       <p><strong>AI / ML Engineer & Full-Stack Developer</strong></p>
       <p>
         Building computer vision perception systems, privacy-first developer tooling,
@@ -22,24 +24,30 @@
     <td align="center" valign="middle" width="260">
       <img src="koi/koi.gif" width="220" alt="Activity Koi" />
       <br>
-      <sub><em>Live Activity Koi &bull; updated nightly</em></sub>
+      <sub><em>Live Activity Koi &bull; updated nightly via GitHub Actions</em></sub>
     </td>
   </tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%" height="4" />
 
 ### Machine Learning & Computer Vision
 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/Anmol-Jain371/Deep_Learning_project---POTHOLEdetection">
+        <img src="assets/card_roadvision.png" width="100%" alt="RoadVision AI" />
+      </a>
       <h3><a href="https://github.com/Anmol-Jain371/Deep_Learning_project---POTHOLEdetection">RoadVision AI</a></h3>
       <p><strong>Real-Time 3D Pothole Perception & Road Audit</strong></p>
       <p>Computer vision system for municipal road surface inspection. Performs real-time spatial perception, depth estimation, and 3D damage classification.</p>
       <p><code>Python</code> <code>PyTorch</code> <code>OpenCV</code> <code>Computer Vision</code></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/Anmol-Jain371/YLD">
+        <img src="assets/card_adikescan.png" width="100%" alt="AdikeScan" />
+      </a>
       <h3><a href="https://github.com/Anmol-Jain371/YLD">AdikeScan</a></h3>
       <p><strong>Arecanut Plant Disease AI Diagnosis</strong></p>
       <p>Plant pathology diagnostic platform classifying 9 distinct Arecanut palm disease classes with Grad-CAM visual explainability overlays and quantitative damage scoring.</p>
@@ -54,6 +62,9 @@
       <p><code>TypeScript</code> <code>NLP</code> <code>Next.js</code></p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/Anmol-Jain371/CipherVault">
+        <img src="assets/card_ciphervault.png" width="100%" alt="CipherVault" />
+      </a>
       <h3><a href="https://github.com/Anmol-Jain371/CipherVault">CipherVault</a></h3>
       <p><strong>Encrypted Developer Secret & Key Vault</strong></p>
       <p>Published extension on the VS Code Marketplace (<code>personal-vault</code>). Provides local encrypted storage and instant access for API tokens and credentials inside the IDE.</p>
@@ -62,13 +73,16 @@
   </tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%" height="4" />
 
 ### Systems, Full-Stack & Tooling
 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/Anmol-Jain371/ServerPLUS">
+        <img src="assets/card_serverplus.png" width="100%" alt="ServerPlus" />
+      </a>
       <h3><a href="https://github.com/Anmol-Jain371/ServerPLUS">ServerPlus</a></h3>
       <p><strong>SRE Predictive Failure & Incident Console</strong></p>
       <p>Predictive failure monitoring system using linear regression time-series forecasting for memory exhaustion, paired with Prometheus metrics and a React Native mobile console.</p>
@@ -97,7 +111,7 @@
   </tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%" height="4" />
 
 ### Technical Arsenal
 
