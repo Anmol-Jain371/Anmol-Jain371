@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="assets/intro.png" width="380" alt="I Got Nothing To Say" />
+</div>
+
+<br>
+
 <table>
   <tr>
     <td valign="top">
